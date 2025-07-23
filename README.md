@@ -29,7 +29,7 @@ Este proyecto no tiene backend, pero simula la lógica de compra y navegación d
    ```bash
    git clone https://github.com/paulacvrs28/Proyecto_Connect.git
 
-   -Abre el archivo index.html en tu navegador
+2. Abre el archivo index.html en tu navegador
    no se requieren dependncias ni instalacion.
 
    
@@ -38,6 +38,7 @@ Este proyecto no tiene backend, pero simula la lógica de compra y navegación d
 
 ### 📃 Descripcion 
 
+ ------ Proximamente------
 
 
 
