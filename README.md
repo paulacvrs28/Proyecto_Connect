@@ -34,12 +34,16 @@ Este proyecto no tiene backend, pero simula la lógica de compra y navegación d
 
 ## 🖼️ Capturas de pantalla
 
+### Home Page 🏠
 ![Home Page](/MiniEcommerce/assets/screenshots/Home_page.png)
 
+### Tenis page 👟
 ![tenis page](/MiniEcommerce/assets/screenshots/Tenis_page.png)
 
+### ballons page 🏀
 ![balons Page](/MiniEcommerce/assets/screenshots/Balons_page.png)
 
+### cart page 🛒
 ![cart Page](/MiniEcommerce/assets/screenshots/Cart_page.png)
 
    
