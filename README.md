@@ -32,6 +32,10 @@ Este proyecto no tiene backend, pero simula la lógica de compra y navegación d
 2. Abre el archivo index.html en tu navegador
    no se requieren dependncias ni instalacion.
 
+## 🖼️ Capturas de pantalla
+
+![Home Page](./screenshots/)
+
    
 
 ## 📦 Version 2 - React, Tailwind,Supabase 📦
