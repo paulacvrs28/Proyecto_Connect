@@ -27,13 +27,17 @@ Este proyecto no tiene backend, pero simula la lógica de compra y navegación d
 
 1. Clona el repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/paulacvrs28/Proyecto_Connect.git
 
    -Abre el archivo index.html en tu navegador
    no se requieren dependncias ni instalacion.
 
+   
+
 ## 📦 Version 2 - React, Tailwind,Supabase 📦
 
 ### 📃 Descripcion 
+
+
 
 
